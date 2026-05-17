@@ -1,0 +1,14 @@
+/* @import url('./base.css');
+
+#app  {
+  width: 100vw;
+  height: 100vh;
+} */
+
+html, body, #app {
+  height: 100%;
+  width: 100vw;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
